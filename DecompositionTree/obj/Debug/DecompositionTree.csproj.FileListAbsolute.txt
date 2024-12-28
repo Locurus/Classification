@@ -1,0 +1,10 @@
+C:\Users\zaits\source\repos\DecompositionTree\DecompositionTree\obj\Debug\DecompositionTree.csproj.AssemblyReference.cache
+C:\Users\zaits\source\repos\DecompositionTree\DecompositionTree\obj\Debug\DecompositionTree.MainForm.resources
+C:\Users\zaits\source\repos\DecompositionTree\DecompositionTree\obj\Debug\DecompositionTree.Properties.Resources.resources
+C:\Users\zaits\source\repos\DecompositionTree\DecompositionTree\obj\Debug\DecompositionTree.csproj.GenerateResource.cache
+C:\Users\zaits\source\repos\DecompositionTree\DecompositionTree\obj\Debug\DecompositionTree.csproj.CoreCompileInputs.cache
+C:\Users\zaits\source\repos\DecompositionTree\DecompositionTree\bin\Debug\DecompositionTree.exe.config
+C:\Users\zaits\source\repos\DecompositionTree\DecompositionTree\bin\Debug\DecompositionTree.exe
+C:\Users\zaits\source\repos\DecompositionTree\DecompositionTree\bin\Debug\DecompositionTree.pdb
+C:\Users\zaits\source\repos\DecompositionTree\DecompositionTree\obj\Debug\DecompositionTree.exe
+C:\Users\zaits\source\repos\DecompositionTree\DecompositionTree\obj\Debug\DecompositionTree.pdb
